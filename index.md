@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: LezWatch Documentation
 description: Welcome to the LezWatch Documentation!
 permalink: /

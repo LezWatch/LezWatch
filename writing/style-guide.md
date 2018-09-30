@@ -2,6 +2,7 @@
 layout: default
 title: Writing Content - Style Guide
 permalink: /writing/style-guide/
+toc: true
 sidebar:
   nav: "writing"
 ---

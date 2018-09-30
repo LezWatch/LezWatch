@@ -2,6 +2,7 @@
 layout: default
 title: Writing Content - Gutenberg Blocks
 permalink: /writing/gutenberg-blocks/
+toc: true
 sidebar:
   nav: "writing"
 ---

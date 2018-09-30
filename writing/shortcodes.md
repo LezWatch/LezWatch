@@ -2,6 +2,7 @@
 layout: default
 title: Writing Content - Shortcodes
 permalink: /writing/shortcodes/
+toc: true
 sidebar:
   nav: "writing"
 ---

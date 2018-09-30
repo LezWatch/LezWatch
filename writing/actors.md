@@ -2,6 +2,7 @@
 layout: default
 title: Writing Content - Actors
 permalink: /writing/actors/
+toc: true
 sidebar:
   nav: "writing"
 ---

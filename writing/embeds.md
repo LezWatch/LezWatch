@@ -2,6 +2,7 @@
 layout: default
 title: Writing Content - Embeds
 permalink: /writing/embeds/
+toc: true
 sidebar:
   nav: "writing"
 ---

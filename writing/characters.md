@@ -2,6 +2,7 @@
 layout: default
 title: Writing Content - Characters
 permalink: /writing/characters/
+toc: true
 sidebar:
   nav: "writing"
 ---
