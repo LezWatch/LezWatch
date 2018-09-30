@@ -3,6 +3,16 @@ description: How to be the greatest database ever.
 remote_theme: "mmistakes/minimal-mistakes"
 avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
+timezone: America/New_York
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: contact@lezwatchtv.com
