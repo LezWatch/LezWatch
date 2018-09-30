@@ -1,6 +1,7 @@
 ---
-title: Writing Content
+title: Administration - Assets
 permalink: /admin/assets/
+toc: true
 sidebar:
   nav: "admin"
 ---

@@ -5,6 +5,12 @@ avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 timezone: America/New_York
 
+# Reading Files
+include:
+  - _administration
+  - _writing
+  - _pages
+
 defaults:
   # Everything
   - scope:
@@ -19,7 +25,6 @@ footer-links:
   github: lezwatch
   instagram: lezwatchtv
   twitter: lezwatchtv
-
 
 #
 # !! You don't need to change any of the configuration flags below !!

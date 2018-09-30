@@ -31,7 +31,7 @@ For people who are new to Gutenberg it can be a serious paradigm shift in how yo
 
 Deep breath.
 
-Most everything is "just write." If you have a twitter link, or a video, just paste in the URL into an empty line (aka a block) and it will auto convert. We have created custom blocks to make certain repetable actions easier:
+Most everything is "just write." If you have a twitter link, or a video, just paste in the URL into an empty line (aka a block) and it will auto convert. We have created custom blocks to make certain repeatable actions easier:
 
 ### Listicles
 
