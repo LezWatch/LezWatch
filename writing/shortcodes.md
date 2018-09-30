@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Shortcodes
 permalink: /writing/shortcodes/
+sidebar:
+  nav: "writing"
 ---
 
 A list of shortcodes available on LezWatch.TV

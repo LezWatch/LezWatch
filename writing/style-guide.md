@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Style Guide
 permalink: /writing/style-guide/
+sidebar:
+  nav: "writing"
 ---
 
 Everyone has their own style bible, be it the Chicago Manual of Style or Strunk & Whites. You can chose to use the Oxford Comma or not, however if someone else used it and you're updating a page, please leave it alone. Even if it kills you. Our Style Guide is not an attempt to force you to write a specific way (unless 'good' is considered that), but a series of guidelines to encourage consistency.

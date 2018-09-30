@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content
 permalink: /writing/
+sidebar:
+  nav: "writing"
 ---
 
 So you're ready to write a post? Awesome, let's do this!

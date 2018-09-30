@@ -8,7 +8,13 @@ main:
   - title: LezPress
     url: https://lezpress.com
 
-toc:
+primary:
+  - title: Writing Content
+    url: /writing/
+  - title: Style Guide
+    url: /writing/style-guide/
+
+writing:
   - title: Writing Content
     url: /writing/
     children:

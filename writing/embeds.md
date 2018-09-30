@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Embeds
 permalink: /writing/embeds/
+sidebar:
+  nav: "writing"
 ---
 
 Embeds are a concept within WordPress that lets you ... well ... embed content by pasting a URL on it's own line.

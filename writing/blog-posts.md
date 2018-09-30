@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Blog Posts
 permalink: /writing/blog-posts/
+sidebar:
+  nav: "writing"
 ---
 
 _All blog posts are written in [Gutenberg](https://wordpress.org/plugins/gutenberg/)_

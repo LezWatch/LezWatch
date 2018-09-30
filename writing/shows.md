@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Shows
 permalink: /writing/shows/
+sidebar:
+  nav: "writing"
 ---
 
 The goal with a show post is to explain what the show is about, but you'll notice we broke things up into the sections.

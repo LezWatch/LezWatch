@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Characters
 permalink: /writing/characters/
+sidebar:
+  nav: "writing"
 ---
 
 The goal with a character post is to briefly explain who the person is and why they mater.

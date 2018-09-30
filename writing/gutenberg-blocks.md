@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Gutenberg Blocks
 permalink: /writing/gutenberg-blocks/
+sidebar:
+  nav: "writing"
 ---
 
 A list of Gutenberg Blocks available on LezWatch.TV

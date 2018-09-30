@@ -2,6 +2,8 @@
 layout: default
 title: Writing Content - Actors
 permalink: /writing/actors/
+sidebar:
+  nav: "writing"
 ---
 
 The goal with an actor page is to briefly explain who the person is and why they mater.
