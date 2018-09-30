@@ -1,6 +1,6 @@
-name: LezWatch Documentation
+title: LezWatch Documentation
 description: How to be the greatest database ever.
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
 avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 defaults:
