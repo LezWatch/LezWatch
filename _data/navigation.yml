@@ -14,6 +14,8 @@ admin:
     children:
       - title: Assets
         url: /admin/assets/
+      - title: Documentation
+        url: /admin/documentation/
       - title: Tools
         url: /admin/tools/
       - title: WP CLI
