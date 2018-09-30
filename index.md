@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome to the LezWatch Documentation!
-description: Where we try to explain everything.
+title: LezWatch Documentation
+description: Welcome to the LezWatch Documentation!
 permalink: /
 ---
 

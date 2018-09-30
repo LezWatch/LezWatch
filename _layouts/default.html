@@ -19,23 +19,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <ul>
-            <li><a href="{{ "/writing/" | relative_url }}">Writing Content</a>
-                <ul>
-                    <li><a href="{{ "/writing/blog-posts/" | relative_url }}">Blog Posts</a></li>
-                    <li><a href="{{ "/writing/actors/" | relative_url }}">Actors</a></li>
-                    <li><a href="{{ "/writing/shows/" | relative_url }}">TV Shows</a></li>
-                    <li><a href="{{ "/writing/characters/" | relative_url }}">Characters</a></li>
-                    <li><a href="{{ "/writing/style-guide/" | relative_url }}">Style Guide</a>
-                        <ul>
-                            <li><a href="{{ "/writing/embeds/" | relative_url }}">Embeds</a></li>
-                            <li><a href="{{ "/writing/gutenberg-blocks/" | relative_url }}">Blocks</a></li>
-                            <li><a href="{{ "/writing/shortcodes/" | relative_url }}">Shortcodes</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
+
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>

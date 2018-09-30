@@ -3,21 +3,17 @@ description: How to be the greatest database ever.
 theme: jekyll-theme-minimal
 avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
+defaults:
+  sidebar:
+  nav: "toc"
+
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:
-  facebook:
+  email: contact@lezwatchtv.com
+  facebook: lezwatchtv
   github: lezwatch
   instagram: lezwatchtv
-  rss: # just type anything here for a working RSS icon
   twitter: lezwatchtv
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
 
 
 #

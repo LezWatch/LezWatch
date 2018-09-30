@@ -1,4 +1,22 @@
-- name: Home
-  link: /
-- name: About
-  link: /about/
+toc:
+  - title: Writing Content
+    url: /writing/
+    children:
+      - title: "Blog Posts"
+        url: /writing/blog-posts/
+      - title: "Actors"
+        url: /writing/actors/
+      - title: "Shows"
+        url: /writing/shows/
+      - title: "Characters"
+        url: /writing/characters/
+
+  - title: Style Guide
+    url: /writing/style-guide/
+    children:
+      - title: "Embeds"
+        url: /writing/embeds/
+      - title: "Gutenberg Blocks"
+        url: /writing/gutenberg-blocks/
+      - title: "Shortcodes"
+        url: /writing/shortcodes/

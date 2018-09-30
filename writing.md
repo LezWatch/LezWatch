@@ -4,6 +4,8 @@ title: Writing Content
 permalink: /writing/
 ---
 
+So you're ready to write a post? Awesome, let's do this!
+
 ## The Rules
 
 * Anyone can write a post about anything.
