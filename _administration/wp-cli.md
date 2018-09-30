@@ -1,6 +1,6 @@
 ---
-title: Writing Content
-permalink: /admin/assets/
+title: Administration - WP-CLI
+permalink: /admin/wp-cli/
 toc: true
 sidebar:
   nav: "admin"
