@@ -4,8 +4,13 @@ theme: jekyll-theme-minimal
 avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 defaults:
-  sidebar:
-  nav: "toc"
+  # _toc
+  - scope:
+      path: ""
+      type: toc
+    values:
+      sidebar:
+        nav: "toc"
 
 # Includes an icon in the footer for each username you enter
 footer-links:

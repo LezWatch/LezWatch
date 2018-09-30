@@ -1,3 +1,13 @@
+main:
+  - title: Home
+    url: /
+  - title: LezWatch.TV
+    url: https://lezwatchtv.com
+  - title: LezWatch Commercials
+    url: https://lezwatchcommercials.com
+  - title: LezPress
+    url: https://lezpress.com
+
 toc:
   - title: Writing Content
     url: /writing/
