@@ -1,12 +1,7 @@
 name: LezWatch Documentation
 description: How to be the greatest database ever.
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/lezwatch/lezwatch.github.io/master/assets/images/lwtv-logo.png
-
-#
-# Flags below are optional
-#
+theme: jekyll-theme-minimal
+avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -57,5 +52,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
