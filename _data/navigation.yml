@@ -1,18 +1,12 @@
 main:
   - title: Home
     url: /
-  - title: LezWatch.TV
-    url: https://lezwatchtv.com
-  - title: LezWatch Commercials
-    url: https://lezwatchcommercials.com
-  - title: LezPress
-    url: https://lezpress.com
-
-primary:
   - title: Writing Content
     url: /writing/
   - title: Style Guide
     url: /writing/style-guide/
+  - title: Administration
+    url: /admin/
 
 admin:
   - title: Administration
