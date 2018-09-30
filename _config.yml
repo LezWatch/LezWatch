@@ -6,10 +6,9 @@ avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 timezone: America/New_York
 
 defaults:
-  # _pages
+  # Everything
   - scope:
       path: ""
-      type: pages
     values:
       layout: single
 

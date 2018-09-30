@@ -1,3 +1,10 @@
+---
+title: Writing Content
+permalink: /admin/assets/
+sidebar:
+  nav: "admin"
+---
+
 A list of WP-CLI commands available on LezWatch.TV
 
 If you don't use shell access to the site, you can ignore this.

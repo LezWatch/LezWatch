@@ -1,4 +1,9 @@
-# Assets
+---
+title: Writing Content
+permalink: /admin/assets/
+sidebar:
+  nav: "admin"
+---
 
 Saved Assets
 

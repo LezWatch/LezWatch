@@ -14,6 +14,17 @@ primary:
   - title: Style Guide
     url: /writing/style-guide/
 
+admin:
+  - title: Administration
+    url: /admin/
+    children:
+      - title: Assets
+        url: /admin/assets/
+      - title: Tools
+        url: /admin/tools/
+      - title: WP CLI
+        url: /admin/wp-cli/
+
 writing:
   - title: Writing Content
     url: /writing/
