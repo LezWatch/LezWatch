@@ -1,6 +1,7 @@
 ---
 title: Writing Content
 permalink: /writing/
+toc: true
 sidebar:
   nav: "writing"
 ---

@@ -5,6 +5,25 @@ avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 timezone: America/New_York
 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/lezwatchtv
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/lezwatchtv/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/lezwatch/
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: https://www.instagram.com/lezwatchtv/
+    - label: "Tumblr"
+      icon: "fab fa-fw fa-tumblr"
+      url: https://lezwatchtv.tumblr.com/
+
 # Reading Files
 include:
   - _administration

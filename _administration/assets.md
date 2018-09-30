@@ -10,15 +10,16 @@ Saved Assets
 
 ## Images
 
-* [Hero Background (no overlay)](images/LWTV_Hero_Background-nooverlay.jpg)
-* [Hero Background](images/LWTV_Hero_Background.jpg)
+* [Logo](/assets/images/lwtv-logo.png)
+* [Hero Background (no overlay)](/assets/images/hero-background/original-nooverlay.jpg)
+* [Hero Background](/assets/images/LWTV_Hero_Background.jpg)
 
 ## Symbolicons
 
 Not all symbolicons are on the site, but if you see one you want, it can be added.
 
-* [Symbolicons Solid AI](images/SymboliconsPro-Solid.ai)
+* [Symbolicons Solid AI](/assets/images/SymboliconsPro-Solid.ai)
 
 ## Historical
 
-* [Genesis Screenshot](images/Old_Site-screenshot.jpg)
+* [Genesis Screenshot](/assets/images/screenshot/genesis.jpg)
