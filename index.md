@@ -7,7 +7,7 @@ sidebar:
   nav: "primary"
 ---
 
-![LezWatch Toaster]({{ site.url }}/assets/images/lwtv-logo.png|width=200)
+![LezWatch Toaster]({{ site.url }}/assets/images/lwtv-logo.png){:width="200px"}
 
 This is where we try to explain everything.
 
