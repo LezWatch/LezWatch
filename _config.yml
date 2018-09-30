@@ -4,12 +4,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 defaults:
-  - scope:
-      path: ""
-      type: default
-    values:
-      sidebar:
-        nav: "toc"
+  - sidebar:
+      nav: "toc"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
