@@ -4,10 +4,9 @@ remote_theme: "mmistakes/minimal-mistakes"
 avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 defaults:
-  # _toc
   - scope:
       path: ""
-      type: toc
+      type: default
     values:
       sidebar:
         nav: "toc"
