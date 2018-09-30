@@ -37,11 +37,11 @@ Most everything is "just write." If you have a twitter link, or a video, just pa
 
 Type `/listicle` into a fresh line on Gutenberg:
 
-[[https://github.com/LezWatch/lwtv-underscores/wiki/images/listicle-example.jpg|alt=listicle]]
+![Listicle Example]({{ site.url }}/assets/images/listicle-example.jpg)
 
 Click on "Listicle" and it will generate a block that has two options for Listicle items.
 
-[[https://github.com/LezWatch/lwtv-underscores/wiki/images/listicle-block.jpg|alt=listicle]]
+![Listicle Block in Place]({{ site.url }}/assets/images/listicle-block.jpg)
 
 Each item gets a title and then below it you can add content. Use the buttons at the bottom to add or remove items. If you want to have a reverse list (for a countdown) you can use the "Toggle Order" to reverse.
 
