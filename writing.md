@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Writing Content
 permalink: /writing/
 sidebar:

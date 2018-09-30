@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Writing Content - Blog Posts
 permalink: /writing/blog-posts/
 toc: true

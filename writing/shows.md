@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Writing Content - Shows
 permalink: /writing/shows/
 toc: true
