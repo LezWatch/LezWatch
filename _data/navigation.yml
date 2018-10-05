@@ -41,7 +41,7 @@ writing:
     children:
       - title: "Embeds"
         url: /writing/embeds/
-      - title: "Gutenberg Blocks"
-        url: /writing/gutenberg-blocks/
+      - title: "Gutenberg"
+        url: /writing/gutenberg/
       - title: "Shortcodes"
         url: /writing/shortcodes/
