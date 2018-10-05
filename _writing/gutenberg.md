@@ -44,4 +44,4 @@ Inserts a customizable Screener block. Use this for shows you review pre-airing.
 
 Inserts an editable spoiler warning.
 
-![Spoiler Block]({{ site.url }}/assets/images/gutenberg/spoiler.gif)
+![Spoiler Block]({{ site.url }}/assets/images/gutenberg/spoilers.gif)
