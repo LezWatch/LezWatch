@@ -6,7 +6,7 @@ header:
   caption:
 excerpt: 'Documentation on managing and maintaining the greatest database of queer female, transgender, and non-binary TV characters, in the universe.'
 intro:
-  - excerpt: 'For everything related to needing help managing the sites.'
+  - excerpt: 'For everything related to needing help posting on and managing the sites.'
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -10,13 +10,13 @@ The goal with a show post is to explain what the show is about, but you'll notic
 
 ## Title
 
-The official title of the show. For example, CSI: Crime Scene Investigation and not CSI. This means, yes, if they call it Venice: The Series so do we. If two shows have the same name, indicate the least popular with a parenthetical. The American version of 24 is simply called that, but the Indian version is called 24 (Indian).
+The official title of the show. For example, _CSI: Crime Scene Investigation_ and not _CSI_. This means, yes, if they call it _Venice: The Series_ so do we. If two shows have the same name, indicate the least popular (or the second one) with a parenthetical. The American version of _24_ is simply called that, but the Indian version is called _24 (Indian)_.
 
 ## Base Content
 
 ### Post Content
 
-An overview of the show. We're not looking for novels, just a description of what the show is, what it's about, who's in it. It's okay to be silly and goofy and weird (see Lost Girl) so long as you can be informative.
+An overview of the show. We're not looking for novels, just a description of what the show is, what it's about, who's in it. It's okay to be silly and goofy and weird (see _Lost Girl_) so long as you can be informative.
 
 ### Excerpt
 
@@ -26,7 +26,7 @@ This is what will display on the show listing page, so keep it witty, keep it p
 
 ### TV Show Image
 
-AKA Featured image. It should be 960x400 pixels. This will be both the header image for the post as well as the 'thumbnail' for the show listing page. Make it as gay as possible.
+AKA Featured image. It should be at least 960x400 pixels. This will be both the header image for the post as well as the 'thumbnail' for the show listing page. Make it as gay as possible.
 
 ### Nation
 
@@ -71,21 +71,21 @@ What _kind_ of show is this? Anime? Mystery? The values will auto-complete and y
 
 If the show has some stomach turning scenes or ever flashes one of those "if you're thinking about suicide..." warnings, it probably needs this.
 
-* High: Game of Thrones, Law & Order SVU, The 100
-* Med: Law & Order CI, CSI
-* Low: Law & Order
+* High: _Game of Thrones_, _Law & Order SVU_, _The 100_
+* Med: _Law & Order CI_, _CSI_
+* Low: _Law & Order_
 
 ## Must See Details
 
 This really really really needs to be filled in. Like I'd love to block publish if they were missing.
 
-### Trope Plotlines
+### Trope Plots
 
 Start typing to fill in the content. "Law Enforcement" includes PIs and military.
 
 ### Worth It?
 
-Yes, Meh, No. Be honest. If you haven't seen it, use TDB
+Yes, Meh, No. Be honest. If you haven't seen it, use TDB.
 
 ### Worth It Details
 
@@ -109,11 +109,11 @@ Ratings are where we review and describe how much the show is awesome. All of th
 
 ### Realness Ratings
 
-1 means the show is not even close to real for how lesbians are, a 5 means this is like life. A show like Lost Girl gets a 4 on the lesbian realness scale because it handles polyamory and bisexuality very well, but is weirdly transphobic.
+1 means the show is not even close to real for how lesbians are, a 5 means this is like life. A show like _Lost Girl_ gets a 4 on the lesbian realness scale because it handles polyamory and bisexuality very well, but is weirdly transphobic.
 
 ### Realness Details
 
-Since Lost Girl is so real (surprise!) it has to be explained why it's so high.
+Since _Lost Girl_ is so real (surprise!) it has to be explained why it's so high.
 
 ### Show Quality Rating
 
@@ -121,15 +121,15 @@ If the lesbians are real, so's the show, right? Nope! Some shows are outright te
 
 ### Show Quality Details
 
-I'm picking on Lost Girl a lot, but here again it's an amazingly high quality show, with both makeup and acting.
+I'm picking on _Lost Girl_ a lot, but here again it's an amazingly high quality show, with both makeup and acting.
 
 ### Screen Time Rating
 
-A 1 means Friends, where we get an episode or two a season. A 5 means The L World. 0 means 'they mentioned queers..'
+A 1 means _Friends_, where we get an episode or two a season. A 5 means _The L Word_ or _Take My Wife_. 0 means 'they mentioned queers...' which normally we wouldn't even bother, but sometimes it matters.
 
 ### Screen Time Details
 
-The L Word gets the highest rating ever for a reason. Explain that here. For Friends it needed reminding that the show was not about the lesbians, and they were only there for the 'backup' of Ross etc.
+The _L Word_ gets the highest rating ever for a reason. Explain that here. For _Friends_ it needed reminding that the show was not about the lesbians, and they were only there for the 'backup' of Ross etc.
 
 ## Plot and Relationship Details
 
@@ -139,9 +139,9 @@ This is where we break down the details of the show. All of these fields are op
 
 Separate multiple ship names with commas
 
-### Queer Plotline Timeline
+### Queer Plots Timeline
 
-Write up an overview of the plotlines that are gay. If only three seasons are gay, just talk about those three seasons.
+Write up an overview of the plot lines that are gay. If only three seasons are gay, just talk about those three seasons.
 
 ### Notable Lez-Centric Episodes
 
@@ -149,4 +149,4 @@ List all the episodes that are super gay. The format is as follows:
 
 * __Season # Episode # “Episode Title”__ - Episode description.
 
-Do not worry about spoilers in this section. If someone's reading about notable queer episodes and timelines, they deserve what they get. If it's for a show like Lost Girl or The L Word then it's okay to just say 'all of them' but if there was a seminal episode that changed the world (like "The Puppy Episode") then that's what we want.
+Do not worry about spoilers in this section. If someone's reading about notable queer episodes and timelines, they deserve what they get. If it's for a show like _Lost Girl_ or _The L Word_ then it's okay to just say 'all of them' but if there was a seminal episode that changed the world (like "The Puppy Episode" for _Ellen_) then that's what we want.

@@ -17,13 +17,13 @@ The name of the actor. Pick the name they're best known by.
 
 ## Content
 
-Who is the person. This can be as long as needed.
+Who is the person. This can be as long as needed. Don't repeat anything we cover elsewhere (like birthday).
 
 ## Sidebar
 
 ## Actor Photo
 
-Pick the best headshot you can, and don't worry about licensing.
+Pick the best headshot you can, and don't worry about licensing right now.
 
 ### Gender Identity
 
@@ -31,4 +31,4 @@ Cis, agender, non-binary... Pick the best one you can. If a person identifies as
 
 ### Sexuality
 
-Homosexual, Bisexual, Asexual, Heterosexual, Unknown, etc... Default to heterosexual. If you can't tell and are working on a webseries, default to Unknown.
+Homosexual, Bisexual, Asexual, Heterosexual, Unknown, etc... Default to heterosexual. If you can't tell and are working on a webseries, default to **Unknown**.
