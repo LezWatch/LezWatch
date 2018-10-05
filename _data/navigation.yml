@@ -33,6 +33,8 @@ writing:
         url: /writing/shows/
       - title: "Characters"
         url: /writing/characters/
+      - title: Technical Stuff
+        url: /technical/
 
   - title: Style Guide
     url: /writing/style-guide/

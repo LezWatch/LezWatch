@@ -42,26 +42,18 @@ All characters on all TV shows, no matter the country of origin, is fair game fo
 
 For more information see how to write TV Show and Character posts.
 
-## Custom Post Types and Taxonomies
+## Gutenberg vs Classic
 
-There are three custom post types (CPTs) on this site: TV Shows, Actors, and Characters. They make up the database.
+See also: [Gutenberg documentation](/writing/gutenberg/)
 
-Each post type represents one item. So a TV Show CPT is an individual show, and so on. In addition, each post type has a number of custom taxonomies to be used to organize data.
+As of WordPress 5.0 (due out November 2018 or January 2019), WordPress is getting a brand new page/post editor called _Gutenberg_, and it's a really big deal in the WordPress community. WordPress will go from a big WYSIWYG editor to a block editor like you have on SquareSpace or Medium. Not everything is Gutenberg friendly yet, however we have converted all of our tools to work in Gutenberg already.
 
-### Taxonomies per post type
+A quick example of the difference can be seen with Listicles.
 
-* TV Shows: TV Stations, Tropes`*`, Formats`*`, Genres`*`, Nations, Stars, Triggers, Intersections`*`
-* Actors: Genders, Sexualitys
-* Characters: Cliches`*`, Genders, Sexual Orientation, and Romantic Orientation
+Here's how you make a classic Listicle:
 
-These fields either auto complete or are selectable via dropdowns.
+![Listicle in Classic]({{ site.url }}/assets/images/classic-editor.gif)
 
-If you need to add a new Nation or Station, you can do so via the post editor. If you need to add in more genders or romantic orientations, you will need to edit the taxonomy (available via the menu).
+And here's how it looks in Gutenberg:
 
-Keep in mind, certain taxonomies (indicated with a `*`) use symbolicons (see below). They also shouldn't be added too all that often. If you need help, grab Mika.
-
-### Symbolicons
-
-Ahhhh. Symbolicons. The basic idea was to add in pretty, cool, pictures to all the taxonomies and have them cross link back and forth to the show and character pages. In order to do this, some pretty weird code was written into the theme.
-
-In order to force things properly, you cannot add to certain taxonomies from the post editor. The only one you can is for TV Stations. Everything else has to be managed via the taxonomy editor for a reason. When you add a new item to the taxonomy, you have to add in a symbolic icon (see? symbolicon) from the dropdown menu.
+![Listicle in Gutenberg]({{ site.url }}/assets/images/gutenberg.gif)
