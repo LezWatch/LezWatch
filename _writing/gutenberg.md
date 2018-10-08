@@ -8,6 +8,8 @@ sidebar:
 
 For people who are new to Gutenberg it can be a serious paradigm shift in how you write with WordPress.
 
+![An example of Gutenberg]({{ site.url }}/assets/images/gutenberg.gif)
+
 Deep breath.
 
 Most everything is "just write." If you have a twitter link, or a video, just paste in the URL into an empty line (aka a block) and it will auto convert. We have created custom blocks to make certain repeatable actions easier.
@@ -31,8 +33,6 @@ Click on "Listicle" and it will generate a block that has two options for Listic
 ![Listicle Block in Place]({{ site.url }}/assets/images/gutenberg/listicle-block.jpg)
 
 Each item gets a title and then below it you can add content. Use the buttons at the bottom to add or remove items. If you want to have a reverse list (for a countdown) you can use the "Toggle Order" to reverse.
-
-![Listicle in Gutenberg]({{ site.url }}/assets/images/gutenberg.gif)
 
 ## Screeners
 
