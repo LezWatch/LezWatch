@@ -35,6 +35,8 @@ writing:
         url: /writing/characters/
       - title: Technical Stuff
         url: /technical/
+      - title: Removing Content
+        url: /data-removal/
 
   - title: Style Guide
     url: /writing/style-guide/

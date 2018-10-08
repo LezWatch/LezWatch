@@ -62,3 +62,7 @@ This section is a repeatable field.
 
 * Show Name - This is a dropdown. If the show isn't listed, that's okay you can leave it blank. It's best to add the show, even if we don't publish it, just so it can be filled in later. You can add a new row if someone is on multiple shows (Lucretia from the _Spartacus_ series, Janet King from her own show and _Crownies_, for example).
 * Character Type - Main cast is easy. Recurring and guest are semantics. If they have their own plot, they're probably recurring. If they only have one episode, they're probably guests.
+
+## Internal Notes
+
+You can leave a Staff Note. Generally this is for take down requests, so we can know why a page was removed and what the data was before. It doesn't show up publicly.

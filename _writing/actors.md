@@ -32,3 +32,7 @@ Cis, agender, non-binary... Pick the best one you can. If a person identifies as
 ### Sexuality
 
 Homosexual, Bisexual, Asexual, Heterosexual, Unknown, etc... Default to heterosexual. If you can't tell and are working on a webseries, default to **Unknown**.
+
+## Internal Notes
+
+You can leave a Staff Note. Generally this is for take down requests, so we can know why a page was removed and what the data was before. It doesn't show up publicly.

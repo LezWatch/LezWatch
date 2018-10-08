@@ -150,3 +150,7 @@ List all the episodes that are super gay. The format is as follows:
 * __Season # Episode # “Episode Title”__ - Episode description.
 
 Do not worry about spoilers in this section. If someone's reading about notable queer episodes and timelines, they deserve what they get. If it's for a show like _Lost Girl_ or _The L Word_ then it's okay to just say 'all of them' but if there was a seminal episode that changed the world (like "The Puppy Episode" for _Ellen_) then that's what we want.
+
+## Internal Notes
+
+You can leave a Staff Note. Generally this is for take down requests, so we can know why a page was removed and what the data was before. It doesn't show up publicly.
