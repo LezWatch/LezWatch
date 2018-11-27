@@ -36,14 +36,14 @@ Categories are for large, widespread groups such as "News" or "Exclusives." Limi
 Tags are free form and for the minutia, like a show name, an actor name, and so on. Think of them as the hashtag. You're trying to bring awareness to the topic.
 
 * Tags should use capital letters (i.e. 'Jane the Virgin' and not 'jane the virgin')
-* Tags will auto-link to related shows/characters/actors (most of the time) so please be careful about spelling.
-* If a tag is missing, feel free to add it.
+* If a tag is missing, feel free to add it
+* Be careful about spelling and the name of actors (we use Kat Barrell and not Katherine, for example)
 
 ## Cross Linking
 
 Cross Linking is when you mention a show/character/actor on another page and link back to it. This is important, as it helps our site become a Wiki-hole of obsession. We've automated a great deal of links (shows link back to related blog posts and so on), but there are still some links you'll need to do yourself.
 
-The basic rule is that you should only link to TV Shows, actors, and characters the _first_ time they appear.
+The commonly accepted rule is that you should only link to TV Shows, actors, and characters the _first_ time they appear.
 
 You should always link on blog posts. On show pages, never link to characters (or their actors) who are listed on the page, even if you're talking about them. We get it, Sara Lance is on a lot of shows. She doesn't need the help. If, however, you're mentioning that _Law & Order_ is in the same universe as _The X Files_, then you can link to each show from the other page.
 
@@ -63,6 +63,8 @@ Whatever people say they are (or whatever a character says they are), Believe it
 
 This also means that if they are not out, no matter how sure you are that they're queer, you shut up and don't set it. Yes, we default to heterosexual for actors (and homosexual for characters). It's not perfect. The problem we faced was marking people as 'undefined' can be as dangerous as accidentally outing. The sole exception to this is web-series. If an actor is on a web-series and you can't tell their sexuality, use 'Unknown.' Everyone else, especially mainstream actors, should default to straight.
 
+**WHEN IN DOUBT, DO NOT OUT**
+
 Defaults:
 
 * Actors: Cisgender Female, heterosexual
@@ -71,13 +73,15 @@ Defaults:
 Common exceptions:
 
 * Actors who are in web-series: Cisgender, Unknown
-* Characters who have romantic relationships with other species (human/klingon, etc): Pansexual
+* Characters who have romantic relationships with other species (human/Klingon, etc): Pansexual
 
 ## Spelling and Romanization
 
 We write in American (or Canadian) English for the most part. This can cause a problem when adding foreign content, as even languages that use the Latin alphabet can include characters with diacritics, ligatures and others that are not commonly used in present-day English.
 
 So. Funzies. Use the characters they use. Zoë, Ægir, Erdös and so on. Use copy/paste if you don't know how to add those manually. They're safe to use in titles and tags, as WordPress will auto-correct for you in the URLs.
+
+Also remember to use the name order that the actor or character does. If they're Asian and use the Patronym (last name) as the 'first' name, then do LASTNAME FIRSTNAME. Romanization may happen with some characters, but WordPress should be fine.
 
 ## Images
 
