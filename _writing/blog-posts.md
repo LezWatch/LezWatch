@@ -26,14 +26,24 @@ The following kinds of content are posted regularly. Just because something isn'
 * The Queerest Thing I Watched: Tracy posts this every Monday @ 1pm ET (try not to schedule anything else at the same time)
 * Queer Beats: What's new with queer things around the world
 
-## Overview
+## Publicize
+
+There's a super handy social sharing feature of all posts, called "Publicize." You can use this to connect your site to your social networks of choice, and share your new posts automatically.
+
+You’ll find the Publicize settings  after clicking “Publish” in the pre-publish sidebar:
+
+![Publicize]({{ site.url }}/assets/images/gutenberg/publicize.gif)
+
+If you want to edit this _after_ you schedule a post, you'll need to click "Switch to Draft" and then press "Schedule" again to trigger the Publicize box. We don't like it either and made a [bug report about it](https://github.com/Automattic/jetpack/issues/10736).
+
+## In Brief
 
 - **Title:** Pick a good one
-- **Content:** ... Right.
+- **Content:** ... Right. Have some.
 - **Schedule:** Pick the post day and time to go live (don't panic, you can change this later)
 - **Category:** Assign one, only use 2 if it is an exclusive _and_ something else
 - **Tags:** Tag all the shows and actors mentioned in the article (use proper capitalization)
 - **Header Image:** Must be at least 825px wide, the height can be variable -- bigger is better, the site will automatically resize the image for you, however try to keep it no more than 3 megs
 - **Excerpt:** Write up a 1 to 2 sentence excerpt that will be used on the home page and all other lists of posts.
 - **SEO:** Choose a key phrase and use the Yoast SEO box at the bottom to tweak the search result listing, Twitter preview and Facebook preview
-- **In Classic Editor:** Edit the tweet that will go out when the post goes live under "Publicize:" under the "Publish" box -- remember to use Hashtags
+- **Publicize:** Edit the tweet that will go out when the post goes live under "Publicize:" under the "Publish" box -- remember to use Hashtags
