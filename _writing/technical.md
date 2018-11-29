@@ -24,7 +24,7 @@ These fields either auto complete or are selectable via dropdowns.
 
 If you need to add a new Nation or Station, you can do so via the post editor. If you need to add in more genders or romantic orientations, you will need to edit the taxonomy (available via the menu).
 
-Keep in mind, certain taxonomies (indicated with a `*`) use symbolicons (see below). They also shouldn't be added too all that often. If you need help, grab Mika.
+Keep in mind, certain taxonomies (indicated with a `*`) use symbolicons (see below). They also shouldn't be added  all that often. If you need help, grab Mika.
 
 ### Symbolicons
 

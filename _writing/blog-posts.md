@@ -36,6 +36,8 @@ You’ll find the Publicize settings  after clicking “Publish” in the pre-pu
 
 If you want to edit this _after_ you schedule a post, you'll need to click "Switch to Draft" and then press "Schedule" again to trigger the Publicize box. We don't like it either and made a [bug report about it](https://github.com/Automattic/jetpack/issues/10736).
 
+![Edit Scheduled Publicize]({{ site.url }}/assets/images/gutenberg/publicize-edit-sched.gif)
+
 ## In Brief
 
 - **Title:** Pick a good one

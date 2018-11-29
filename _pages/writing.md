@@ -14,7 +14,7 @@ So you're ready to write a post? Awesome, let's do this!
 * Anyone can edit a post about anything.
 * Anyone can update anything they have access to update.
 
-If you have access then you have permission to edit the site. We're cool people here, and we respect each other so don't worry about fixing spelling or correcting mistakes.
+If you have access to edit a page, then you have permission to edit the site. We're cool people here, and we respect each other so don't worry about fixing spelling or correcting mistakes.
 
 If you're really worried, jump on Slack and ping people.
 

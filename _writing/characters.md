@@ -42,7 +42,7 @@ Defaults to 'none' and if you have _no_ idea what that means, keep it there. Mos
 
 ### Death
 
-If they're dead, pick the real life (not in show universe), date. Generally it will be the episode airdate unless they died off camera. In that case, pick either the episode date where it's stated they're dead _or_ if you can figure out which ep they died in, use that. Good luck.
+If they're dead, pick the real life (not in show universe), date. Generally it will be the episode airdate unless they died off camera. In that case, pick either the episode date where it's stated they're dead _or_ if you can figure out which episode they died in, use that. Good luck.
 
 ## Character Details
 
@@ -54,7 +54,7 @@ We're looking for things like 'parent' and 'queer IRL' - Every character has a c
 
 ### Actor Name
 
-If there are multiple actors, add multiple rows. Put the most known actor (or the most current) on top.
+If there are multiple actors, add multiple rows. Put the most known actor (or the most current) on top. Use 'Unknown' as an absolute last resort.
 
 ### Shows
 
