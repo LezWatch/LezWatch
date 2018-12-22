@@ -25,14 +25,15 @@ Who is the person. This can be as long as needed. Don't repeat anything we cover
 
 Pick the best headshot you can, and don't worry about licensing right now.
 
-### Gender Identity
-
-Cis, agender, non-binary... Pick the best one you can. If a person identifies as one, take them at their word. This means! If you hit someone who has a gender we don't have listed _we add it_, no questions asked.
-
-### Sexuality
-
-Homosexual, Bisexual, Asexual, Heterosexual, Unknown, etc... Default to heterosexual. If you can't tell and are working on a webseries, default to **Unknown**.
-
 ## Internal Notes
 
 You can leave a Staff Note. Generally this is for take down requests, so we can know why a page was removed and what the data was before. It doesn't show up publicly.
+
+## Additional Data
+
+Below the content is a lot of extra data. Please fill this in as best you can.
+
+* Gender Identity - If you find someone who has a gender we don't have listed _we add it_, no questions asked.
+* Sexuality - Default to heterosexual. If you can't tell and are working on a webseries, default to **Unknown**.
+
+![What the Data looks like]({{ site.url }}/assets/images/actor-data.jpg)

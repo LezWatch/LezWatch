@@ -8,10 +8,6 @@ sidebar:
 
 A list of shortcodes available on LezWatch.TV
 
-## Author Box
-
-Usage: `[author-box users=username]`
-
 ## Badges
 
 Insert Bootstrap badge code as a shortcode not HTML
@@ -26,12 +22,6 @@ Attributes:
 * year = (int) start year. (default: current year)
 * text = (text) copyright message. (default: &copy; )
 
-## Glossary
-
-Show Category Icons used for taxonomies.
-
-Usage: `[glossary taxonomy=TAXONOMY]`
-
 ## Number of Posts via shortcodes
 
 Usage: `[numposts data="posts" posttype="post type" term="term slug" taxonomy="taxonomy slug"]`
@@ -41,21 +31,6 @@ Attributes:
 * posttype = post type
 * term = term slug
 * taxonomy = taxonomy slug
-
-## Screeners
-
-Usage: `[screener title="Some Like It Hot" summary="A quirky black and white romcom" queer="2" worth="yes" trigger="low"]`
-
-Attributes:
- * title = Title of show (required - defaults to "TBD")
- * summary = 140 characters of summary (required - defaults to "coming soon")
- * queer = a number, 0-5, reflecting how good it is for queers (required - defaults to 3)
- * worth = `[yes|no|meh]` (required - defaults to meh)
- * trigger = `[low|medium|high]` (optional - defaults to 'none' which shows nothing)
-
-## Spoilers
-
-Usage: `[spoilers]` or `[spoilers warning="OMG SPIDERS!!!"]`
 
 ## This Month
 

@@ -1,12 +1,12 @@
 ---
-title: Writing Content - Gutenberg Blocks
-permalink: /writing/gutenberg/
+title: Writing Content - Block Editor
+permalink: /writing/block-editor/
 toc: true
 sidebar:
   nav: "writing"
 ---
 
-For people who are new to Gutenberg it can be a serious paradigm shift in how you write with WordPress.
+As of December 2018, we use [WordPress 5.0 "Bebo"](https://wordpress.org/news/2018/12/bebo/) which includes a new editor: The Block Editor (aka Gutenberg). This new editor can be a serious paradigm shift in how you write with WordPress.
 
 ![An example of Gutenberg]({{ site.url }}/assets/images/gutenberg.gif)
 
@@ -18,9 +18,15 @@ Most everything is "just write." If you have a twitter link, or a video, just pa
 
 ## Author Box
 
-Insert an author box. Generally you won't need this so don't worry. I know it's ugly.
+Insert an author box. Generally you won't need this so don't worry.
 
 ![Author Box Block]({{ site.url }}/assets/images/gutenberg/author-box.gif)
+
+## Grades
+
+Give an article a grade. This is a quick way to rate something in a review when it's not really a screener. Like season two of a series.
+
+![Grade Block]({{ site.url }}/assets/images/gutenberg/grade.gif)
 
 ## Listicles
 
