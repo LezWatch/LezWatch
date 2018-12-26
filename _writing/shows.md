@@ -87,7 +87,7 @@ If the show has some stomach turning scenes or ever flashes one of those "if yo
 
 ### Trope Plots
 
-![Stars & Trigger Warnings]({{ site.url }}/assets/images/shows/star-warning.png)
+![Stars & Trigger Warnings]({{ site.url }}/assets/images/shows/tropes.png)
 
 Start typing to fill in the content. "Law Enforcement" includes PIs and military.
 
