@@ -27,6 +27,8 @@ writing:
     children:
       - title: "Blog Posts"
         url: /writing/blog-posts/
+      - title: "Guest Authors"
+        url: /writing/guest-authors/
       - title: "Actors"
         url: /writing/actors/
       - title: "Shows"

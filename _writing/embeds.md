@@ -18,3 +18,5 @@ In addition to all the defaults in WordPress (YouTube, Twitter, etc), the follow
 https://www.indiegogo.com/projects/riley-parra-season-2-lgbt
 
 https://gleam.io/iR0GQ/gleam-demo-competition
+
+Yep, just paste that on a line all it's own and WordPress handles the rest.

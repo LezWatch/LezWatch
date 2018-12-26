@@ -12,7 +12,7 @@ As of December 2018, we use [WordPress 5.0 "Bebo"](https://wordpress.org/news/20
 
 Deep breath.
 
-Most everything is "just write." If you have a twitter link, or a video, just paste in the URL into an empty line (aka a block) and it will auto convert. We have created custom blocks to make certain repeatable actions easier.
+Most everything is "just write." If you have a twitter link, or a video, just paste in the URL into an empty line (aka a block) and it will auto convert. We have created *custom blocks* to make certain repeatable actions easier.
 
 ![LWTV Blocks]({{ site.url }}/assets/images/gutenberg/lwtv-blocks.png)
 
@@ -29,6 +29,8 @@ Give an article a grade. This is a quick way to rate something in a review when 
 ![Grade Block]({{ site.url }}/assets/images/gutenberg/grade.gif)
 
 ## Listicles
+
+*[Provided by the Listicles Plugin](https://wordpress.org/plugins/listicles/)*
 
 Type `/listicle` into a fresh line on Gutenberg:
 

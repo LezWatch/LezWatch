@@ -8,7 +8,10 @@ sidebar:
 
 So you're ready to write a post? Awesome, let's do this!
 
-If you're new to WordPress (or new to the Block Editor) please read our quick notes on [Block Editor Features](/writing/block-editor.md).
+Handy links:
+
+* [Guest Author Guide](/writing/guest-authors/)
+* [Block Editor Features](/writing/block-editor/)
 
 ## The Rules
 
@@ -38,4 +41,4 @@ It's not alphabetical, it's first come, first words.
 
 All characters on all TV shows, no matter the country of origin, is fair game for the site. This includes web series. It does not include Reality TV or Docudramas. Docudramas are based on real people, which violates the 'no real people' clause. The only exception is when TV characters are actors playing TV versions of themselves. For example, Emma Thompson played herself, only gay, on the original Ellen.
 
-For more information see how to write TV Show and Character posts.
+For more information see how to write [TV Show](/writing/shows/), [Actors](/writing/actors/) and [Characters](/writing/characters/) posts.

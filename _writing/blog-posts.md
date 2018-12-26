@@ -6,11 +6,9 @@ sidebar:
   nav: "writing"
 ---
 
-_All blog posts are written in [Gutenberg](https://wordpress.org/plugins/gutenberg/)_
+_All blog posts are written in the [block editor](https://wordpress.org/plugins/block-editor/)_
 
-If you want to play with it in a safe space, you can use [Frontenberg](http://moc.co/sandbox/example-post/) or login and go to the [local Gutenberg test page](https://lezwatchtv.com/wp-admin/post-new.php?gutenberg-demo).
-
-If you have any issues, come talk to Mika. This is her fault. We have some [Gutenberg documentation](/writing/gutenberg/) that should be helpful.
+If you want to play with it in a safe space, you can use [Frontenberg](http://moc.co/sandbox/example-post/) but for the most part, just write.
 
 ## Overview
 
@@ -23,8 +21,8 @@ The following kinds of content are posted regularly. Just because something isn'
 * Breaking News: These are to be posted as soon as possible -- recommended title "Breaking News: [The Thing]"
 * Exclusives: Interviews (for the most part) -- they should be scheduled and preferably no more than one a week
 * Listicles: i.e. 'Best Wall Makeout Scenes' posts -- these use a special block called "Listicle"
-* The Queerest Thing I Watched: Tracy posts this every Monday @ 1pm ET (try not to schedule anything else at the same time)
-* Queer Beats: What's new with queer things around the world
+* The Queerest Thing I Watched: Tracy posts this every Monday at midday
+* Queer Beats: Nikki posts what's new with queer things around the world every Friday morning
 
 ## Publicize
 
@@ -48,4 +46,4 @@ If you want to edit this _after_ you schedule a post, you'll need to click "Swit
 - **Header Image:** Must be at least 825px wide, the height can be variable -- bigger is better, the site will automatically resize the image for you, however try to keep it no more than 3 megs
 - **Excerpt:** Write up a 1 to 2 sentence excerpt that will be used on the home page and all other lists of posts.
 - **SEO:** Choose a key phrase and use the Yoast SEO box at the bottom to tweak the search result listing, Twitter preview and Facebook preview
-- **Publicize:** Edit the tweet that will go out when the post goes live under "Publicize:" under the "Publish" box -- remember to use Hashtags
+- **Publicize:** Edit the tweet that will go out when the post goes live under "Publicize" (see above) -- remember to use Hashtags
