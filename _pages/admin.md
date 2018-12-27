@@ -30,4 +30,7 @@ If you're interested, here's the code we use.
 
 ### External Code
 
-* [WordPress.org Plugin](https://github.com/LezWatch/wordpress-plugin)
+The following code is hosted on WordPress.org and can be used by anyone on any site without any extra work.
+
+* [LezWatch.TV News](https://github.com/LezWatch/wordpress-plugin)
+* [Listicles by LezWatch.TV](https://github.com/LezWatch/listicles)

@@ -16,7 +16,7 @@ Each post type represents one item. So a TV Show CPT is an individual show, and 
 
 ### Taxonomies per post type
 
-* TV Shows: TV Stations, Tropes`*`, Formats`*`, Genres`*`, Nations, Stars, Triggers, Intersections`*`
+* TV Shows: TV Stations, Tropes`*`, Formats`*`, Genres`*`, Nations, Stars, Triggers, Intersections`*`, Tagged
 * Actors: Genders, Sexualitys
 * Characters: Cliches`*`, Genders, Sexual Orientation, and Romantic Orientation
 
