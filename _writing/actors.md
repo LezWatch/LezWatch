@@ -21,13 +21,9 @@ Who is the person? This can be as long as needed. Don't repeat anything we cover
 
 ## Sidebar
 
-## Actor Photo
+### Actor Photo
 
 Pick the best headshot you can, and don't worry about licensing right now.
-
-## Internal Notes
-
-You can leave a Staff Note. Generally this is for take down requests, so we can know why a page was removed and what the data was before. It doesn't show up publicly.
 
 ## Additional Data
 

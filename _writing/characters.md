@@ -16,23 +16,19 @@ The name of the character. Pick the name they're best known by.
 * Use an alias/alternate name if they're better known by that (ex: Thirteen, Adam Torres)
 * If a character switches names during the show you can use the 'first' name first and separate with a slash (ex: Moira/Max)
 * If the character has only one name, and it's really common that's okay WordPress will add a `-2` to the post name
-* If you find someone's name, update the name and the slug (ex: Courtney / `courtney` became Courtney Brown / `courtney-brown`). Since we have Yoast SEO, it redirects it for us.
+* If you find someone's name, update the name and the slug (ex: Courtney / `courtney` became Courtney Brown / `courtney-brown`). Since we have Yoast SEO, it can be used to redirect the old post name.
 
 ## Content
 
-The post content should be short and to the point. Keep it to two or three sentences unless you're Sara Lance.
+The post content should be short and to the point.
 
 ## Sidebar
 
 <img align="right" src="/assets/images/characters/sidebar.jpg">
 
-## Character Photo
+### Character Photo
 
 Pick the best headshot you can.
-
-## Internal Notes
-
-You can leave a Staff Note. Generally this is for take down requests, so we can know why a page was removed and what the data was before. It doesn't show up publicly.
 
 ## Additional Data
 
