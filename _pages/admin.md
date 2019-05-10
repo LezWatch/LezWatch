@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.lezwatchtv.com/admin/"
+redirect_to: https://docs.lezwatchtv.com/admin/
 ---

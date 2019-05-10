@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.lezwatchtv.com/admin/wp-cli/"
+redirect_to: https://docs.lezwatchtv.com/admin/wp-cli/
 ---
