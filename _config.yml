@@ -5,6 +5,9 @@ avatar: https://lezwatch.github.io/assets/images/lwtv-logo.png
 
 timezone: America/New_York
 
+plugins:
+  - jekyll-redirect-from
+
 # Site Footer
 footer:
   links:
