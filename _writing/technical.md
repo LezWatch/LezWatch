@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.lezwatchtv.com/style/technical-details/"
+redirect_to: https://docs.lezwatchtv.com/style/technical-details/
 ---

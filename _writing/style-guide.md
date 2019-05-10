@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.lezwatchtv.com/style/"
+redirect_to: https://docs.lezwatchtv.com/style/
 ---
